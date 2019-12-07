@@ -2,8 +2,8 @@ use Mix.Config
 
 # Configure your database
 config :catcasts, Catcasts.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "thatpamiam",
+  password: "",
   database: "catcasts_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
